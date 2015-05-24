@@ -1,0 +1,80 @@
+/*
+Font: 		Plau
+Style: 		Regular
+URL: 		http://www.youworkforthem.com/product.php?sku=T3128
+Foundry: 	Niramekko
+Foundry: 	http://www.youworkforthem.com/designer/293/niramekko
+Copyright:	Copyright (c) 2010 by Rodrigo Saiani. All rights reserved.
+Version: 	1.1
+Created:	August 30, 2012
+License: 	http://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'Plau';
+	src: url('plau.eot');
+	src: url('plau.eot?#iefix') format('embedded-opentype'),
+	     url('plau.woff') format('woff'),
+	     url('plau.ttf') format('truetype'),
+	     url('plau.svg#ywftsvg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/*
+Font: 		Plau
+Style: 		Light
+URL: 		http://www.youworkforthem.com/product.php?sku=T3128
+Foundry: 	Niramekko
+Foundry: 	http://www.youworkforthem.com/designer/293/niramekko
+Copyright:	Copyright (c) 2010 by Rodrigo Saiani. All rights reserved.
+Version: 	1.1
+Created:	August 30, 2012
+License: 	http://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'Plau Light';
+	src: url('plau-light.eot');
+	src: url('plau-light.eot?#iefix') format('embedded-opentype'),
+	     url('plau-light.woff') format('woff'),
+	     url('plau-light.ttf') format('truetype'),
+	     url('plau-light.svg#ywftsvg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/*
+Font: 		Plau
+Style: 		Light Italic
+URL: 		http://www.youworkforthem.com/product.php?sku=T3128
+Foundry: 	Niramekko
+Foundry: 	http://www.youworkforthem.com/designer/293/niramekko
+Copyright:	Copyright (c) 2010 by Rodrigo Saiani. All rights reserved.
+Version: 	1.1
+Created:	August 30, 2012
+License: 	http://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'Plau Light Italic';
+	src: url('plau-light-italic.eot');
+	src: url('plau-light-italic.eot?#iefix') format('embedded-opentype'),
+	     url('plau-light-italic.woff') format('woff'),
+	     url('plau-light-italic.ttf') format('truetype'),
+	     url('plau-light-italic.svg#ywftsvg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
